@@ -1,0 +1,3 @@
+character literals are single quote
+string literals are double quote
+Every character has an int value and that is what we call ASCII code.

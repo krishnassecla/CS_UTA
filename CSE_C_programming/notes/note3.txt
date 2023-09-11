@@ -1,0 +1,10 @@
+create a variable for starting balance (FLOAT sbalance)
+.
+.
+.
+user input for sbalance
+.
+.
+.
+calculate the current balance
+assign starting balance to sbalance.
